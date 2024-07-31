@@ -1,4 +1,4 @@
-module cli-weather
+module weather
 
 go 1.22.4
 
